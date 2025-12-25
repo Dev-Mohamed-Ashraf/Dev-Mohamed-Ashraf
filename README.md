@@ -3,7 +3,7 @@
 - 👯 I’m open to collaborate on **scalable open-source Flutter projects and innovative products where Design and Code meet.**
 - 🤝 I’m engaging with experts to **exchange advanced insights on Clean Architecture and Scalable Design Systems.**
 - 🚀 I’m currently **pushing the boundaries of Advanced State Management and implementing the latest trends in Creative Coding.**
-- 💬 Ask me about **Flutter, Dart, Python, C++, and bridging the gap between Design & Development.**
+- 💬 Ask me about **Clean Architecture, SOLID Principles, Design Patterns, and writing scalable, clean code.**
 - ⚡ Fun fact **I apply the robust logic of C++ & Python to write efficient Dart code that powers creative Flutter apps.**
 
 
